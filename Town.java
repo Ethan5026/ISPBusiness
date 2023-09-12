@@ -17,7 +17,6 @@ public class Town {
 
 	/**
 	 * Constructor to be used when user wants to generate grid randomly, with the given seed.
-	 * This constructor does not populate each cell of the grid (but should assign a 2D array to it).
 	 * @param length
 	 * The length of the town
 	 * @param width
@@ -35,8 +34,6 @@ public class Town {
 
 	/**
 	 * Constructor to be used when user wants to populate grid based on a file.
-	 * Please see that it simple throws FileNotFoundException exception instead of catching it.
-	 * Ensure that you close any resources (like file or scanner) which is opened in this function.
 	 * @param inputFileName
 	 * The file name for the template of the grid
 	 * @throws FileNotFoundException
