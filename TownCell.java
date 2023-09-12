@@ -33,10 +33,6 @@ public abstract class TownCell {
 
 	/**
 	 * Checks all neighborhood cell types in the neighborhood.
-	 * Refer to homework pdf for neighbor definitions (all adjacent
-	 * neighbors excluding the center cell).
-	 * Use who() method to get who is present in the neighborhood
-	 *
 	 * @param counts of all customers
 	 */
 	public void census(int nCensus[]) {
