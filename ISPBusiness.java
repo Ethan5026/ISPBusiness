@@ -1,4 +1,4 @@
-package edu.iastate.cs228.hw1;
+package isp;
 
 import java.io.FileNotFoundException;
 import java.util.Scanner;
@@ -64,15 +64,8 @@ public class ISPBusiness {
 	 *  Depending on the user choice, create the Town object using respective constructor and
 	 *  if user choice is to populate it randomly, then populate the grid here.
 	 *
-	 *  Finally: For 12 billing cycle calculate the profit and update town object (for each cycle).
-	 *  Print the final profit in terms of %. You should print the profit percentage
-	 *  with two digits after the decimal point:  Example if profit is 35.5600004, your output
-	 *  should be:
-	 *
-	 *	35.56%
-	 *
-	 * Note that this method does not throw any exception, so you need to handle all the exceptions
-	 * in it.
+	 *  For 12 billing cycle calculate the profit and update town object (for each cycle).
+	 *  
 	 *
 	 * @param args
 	 *
