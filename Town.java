@@ -1,4 +1,4 @@
-package edu.iastate.cs228.hw1;
+package isp;
 
 import java.io.File;
 import java.io.FileNotFoundException;
