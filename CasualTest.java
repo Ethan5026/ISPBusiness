@@ -1,4 +1,4 @@
-package edu.iastate.cs228.hw1;
+package isp;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
