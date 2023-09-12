@@ -1,4 +1,4 @@
-package edu.iastate.cs228.hw1;
+package isp;
 /**
  * @author Ethan Gruening
  * Models an Empty user within a town, based upon the Town Cell type
